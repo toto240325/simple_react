@@ -1,0 +1,17 @@
+{
+  "artificialDelayMilliseconds": 400,
+  "keepExistingTerminalsOpen": true,
+  "runOnStartup": true,
+  "terminals": [
+    {
+      "splitTerminals": [
+        {
+          "name": "devlin",
+          "commands": ["cd react1"]
+        }
+      ],
+      "shouldRunCommands": true
+    }
+
+  ]
+}
